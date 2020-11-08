@@ -1,0 +1,11 @@
+---
+:id: 18419240
+:submitters:
+- :name: Madison Tailer Hess
+  :email: hessmad@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-05-24 09:49:33.520947000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-05-24 02:49:33.520947000 Z
+:status: processed
